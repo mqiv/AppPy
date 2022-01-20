@@ -1,0 +1,193 @@
+autotranslate=stop
+basic_functions_in_panel=false
+clean_site_after_google=true
+current_locale=ru
+default_lang_to=ru
+domain_google_translator=translate.google.com
+domain_translate_list={}
+hotkeys=[{"shiftKey":false,"ctrlKey":false,"altKey":true,"keyCode":60,"key":"<","method":"translate_page"},{"shiftKey":false,"ctrlKey":true,"altKey":true,"keyCode":60,"key":"<","method":"translate_selection"}]
+last_lang_from=auto
+last_lang_to=ru
+promt_https=false
+run_trans_full_page=true
+tooltip_background_color_enable=false
+tooltip_font_color_enable=false
+tooltip_height_panel=75
+tooltip_height_to=295
+tooltip_position_is_save=true
+tooltip_position_x=69
+tooltip_position_y=378
+tooltip_theme=dark
+tooltip_theme_cache=option {
+	background-color: #353431 !important;
+}
+#s3gt_translate_tooltip:not([is_mini='true']) {
+	background-color: #353431;
+	color: #E6E6E6;
+	border: 1px solid #CCCCCC;
+	box-shadow: 0 0 5px 2px rgba(40,40,40,0.7);
+}
+#s3gt_translate_tooltip_head {
+	background:-moz-linear-gradient(center left, rgba(100, 100, 100, 0.6), rgba(100, 100, 100, 0.4), rgba(170, 170, 170, 0.5));
+	background: linear-gradient(to right, rgba(100, 100, 100, 0.6), rgba(100, 100, 100, 0.4), rgba(170, 170, 170, 0.5));
+}
+#s3gt_translate_tooltip_head_logo:hover {
+	-webkit-filter: invert(100%);
+	filter: invert(100%);
+}
+.s3gt_translate_tooltip_head_button[change_for_dark="true"] {
+	-webkit-filter: invert(100%);
+	filter: invert(100%);
+}
+.s3gt_translate_tooltip_button {
+	background:-moz-linear-gradient(center top, rgba(180, 180, 180, 0.2), rgba(170, 170, 170, 0.4), rgba(120, 120, 120, 0.6), rgba(160, 160, 160, 0.4));
+	background: linear-gradient(to bottom, rgba(180, 180, 180, 0.2), rgba(170, 170, 170, 0.4), rgba(120, 120, 120, 0.6), rgba(160, 160, 160, 0.4));
+}
+.s3gt_translate_tooltip_button:hover {
+	background:-moz-linear-gradient(center top, rgba(170, 170, 170, 0.8), rgba(170, 170, 170, 0.4), rgba(120, 120, 120, 0.8), rgba(160, 160, 160, 0.5));
+	background: linear-gradient(to bottom, rgba(170, 170, 170, 0.8), rgba(170, 170, 170, 0.4), rgba(120, 120, 120, 0.8), rgba(160, 160, 160, 0.5));
+}
+.s3gt_translate_tooltip_button:active {
+	background:-moz-linear-gradient(center top, rgba(160, 160, 160, 0.8), rgba(120, 120, 120, 0.5), rgba(170, 170, 170, 0.4), rgba(180, 180, 180, 0.8));
+	background: linear-gradient(to bottom, rgba(160, 160, 160, 0.8), rgba(120, 120, 120, 0.5), rgba(170, 170, 170, 0.4), rgba(180, 180, 180, 0.8));
+}
+
+#s3gt_translate_tooltip_body[is_background="true"] {
+	filter: sepia(5%) contrast(60%) brightness(80%);
+}
+
+#s3gt_translate_tooltip_settings_box {
+	background-color: #353431;
+}
+.s3gt_translate_tooltip_txt_box_pane {
+	background-color: #353431;
+}
+.s3gt_translate_tooltip_txt_control {
+	background-color: #353431;
+}
+#s3gt_translate_tooltip_donate {
+	color: #60CCFB;
+}
+#s3gt_translate_tooltip_donate:hover {
+	color: #FC4738;
+}
+.s3gt_translate_tooltip_variant:hover, .s3gt_translate_tooltip_variant[is_hover="true"] {
+	background-color: #07718B;
+}
+.s3gt_translate_tooltip_variant_main_word:hover {
+	border-bottom: 1px #C7F2FC dashed;
+}
+
+tooltip_use_webpage_zoom=true
+tooltip_width=1760
+translate_panel_pin=onetab
+translate_selection_fly=false
+translate_selection_fly_copy=false
+translate_selection_fly_panel=true
+translate_selection_fly_sound=false
+translate_selection_long_click=true
+translate_selection_long_click_action=translate
+translate_selection_long_click_sound=false
+translate_subtitles_youtube=true
+translate_tooltip_pin=close
+translate_word_fly=true
+translate_word_fly_key=ctrl
+translate_word_fly_long_click=true
+view_reverse_translate_panel=false
+view_source_translate_panel=false
+reverse_lang_value=reverse
+save_last_lang_from=false
+save_last_lang_reverse=false
+translate_selection_timer=0
+translate_selection_fly_translate=true
+translate_selection_fly_translate_plus=false
+translate_selection_fly_window_new=default
+translate_selection_fly_translate_open=default
+translate_selection_middle_click=false
+translate_selection_middle_click_action=translate
+translate_selection_middle_click_translate=true
+translate_selection_middle_click_translate_plus=false
+translate_selection_middle_click_sound=true
+translate_selection_middle_click_copy=true
+translate_selection_middle_click_window_new=default
+translate_selection_middle_click_translate_open=default
+translate_selection_long_click_translate=true
+translate_selection_long_click_translate_plus=false
+translate_selection_long_click_copy=true
+translate_selection_long_click_timer=700
+translate_selection_long_click_window_new=default
+translate_selection_long_click_translate_open=default
+translate_selection_fly_auto=disabled
+translate_selection_fly_auto_window_new=default
+translate_selection_fly_auto_translate_open=default
+translate_word_fly_long_click_timer=700
+translate_word_fly_sound=false
+translate_word_fly_window_new=default
+translate_word_fly_translate_open=default
+translate_clipboard_window_new=default
+translate_clipboard_translate_open=default
+list_disabled_lang_to=
+translate_page_hide_header=false
+translate_page_show_only_selected_languages=false
+font_size_tooltip_box=
+font_size_tooltip_logo=
+font_family_tooltip_box=
+action_button_click_icon=menu
+autotranslate_allpages=false
+learning_enable=false
+learning_only_http=true
+learning_min_length=50
+learning_max_count=1
+learning_border=true
+learning_border_color=#006600
+learning_background=true
+learning_background_color=#CCFFFF
+learning_font=true
+learning_font_color=#000000
+learning_lang_to=auto
+learning_lang_from=auto
+learning_show_translation_in_tooltip=false
+context_menu_translate_page=true
+context_menu_translate_page_google=true
+context_menu_translate_auto=true
+context_menu_translate_forget=true
+context_menu_translate_allpages_auto_separator=true
+context_menu_translate_allpages_auto=true
+context_menu_translate_learning_separator=true
+context_menu_translate_learning=true
+context_menu_translate_text_separator=true
+context_menu_translate_clipboard=true
+context_menu_translate_custom=true
+context_menu_translate_selection=true
+context_menu_translate_selection_sound=true
+context_menu_translate_go_google_separator=true
+context_menu_translate_go_google=true
+context_menu_translate_settings_separator=true
+context_menu_translate_settings=true
+translate_selection_impossible_target=notifycation
+translate_selection_fly_tooltip=false
+translate_instant_tooltip=true
+view_source_translate_tooltip=true
+view_reverse_translate_tooltip=false
+set_lowercase_tooltip_from=false
+set_lowercase_tooltip_to=false
+set_lowercase_tooltip_reverse=false
+translate_instant_panel=true
+set_lowercase_panel_from=false
+set_lowercase_panel_to=false
+set_lowercase_panel_reverse=false
+show_tooltip_animation=transparency
+show_tooltip_animation_speed=20
+tooltip_theme_custom_path=
+tooltip_height_from=80
+tooltip_height_reverse=80
+tooltip_show_box_name=true
+tooltip_font_color_value=#000000
+tooltip_background_color_value=#FFFFFF
+translate_box_restore_restart=true
+sound_playback_rate=100
+tooltip_check_cyrillic=false
+tooltip_check_page_language=false
+copy_clipboard_notification=true
+complete_beep=false
+ignore_pdf_linebreaks=false
