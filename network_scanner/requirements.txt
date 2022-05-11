@@ -1,0 +1,9 @@
+importlib-metadata==4.11.3
+importlib-resources==5.7.1
+libpcap==1.11.0b4
+packaging==21.3
+pkg-about==1.0.4
+pyparsing==3.0.9
+scapy==2.4.5
+zipp==3.8.0
+wheel==0.37.1
